@@ -1,0 +1,11 @@
+body {
+    background-color: grey;
+    color: black;
+    padding: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  h{
+    font-weight: bold;
+  }
